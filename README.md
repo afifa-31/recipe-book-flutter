@@ -70,7 +70,7 @@ lib/
 1. Install Flutter and Android Studio (with an emulator), or connect an Android phone with USB debugging.
 2. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/recipe-book-flutter.git
+   git clone https://github.com/afifa-31/recipe-book-flutter.git
    cd recipe-book-flutter
    ```
 3. Get the packages:
