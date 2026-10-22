@@ -1,22 +1,3 @@
-# recipe_book
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 # Recipe Book (Flutter + SQLite)
 
 A mobile application that manages structured data with a database. Users can browse, search, add, edit and delete recipes. The app is useful for beginners who do not know how to cook: they pick a meal type, choose Veg or Non-veg, and follow simple numbered steps.
@@ -86,7 +67,7 @@ lib/
 
 ## Install on an Android phone
 
-Download `app-release.apk` from the **Releases** page of this repository, open it on your phone and allow installation from unknown sources.
+Download `RecipeBook.apk` from the **Releases** page of this repository, open it on your phone and allow installation from unknown sources.
 
 ## Notes
 
